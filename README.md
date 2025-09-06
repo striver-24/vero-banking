@@ -1,7 +1,7 @@
-#VeroBanking
-##A Modern Financial SaaS Platform
+# VeroBanking
+## A Modern Financial SaaS Platform
 
--VeroBanking is a fully functional online banking platform built with Next.js. It's designed to provide users with a secure, real-time, and comprehensive solution for managing their finances. By connecting to multiple bank accounts, it offers a single-dashboard view of all financial activities, making money management effortless and insightful.
+- **VeroBanking** is a fully functional online banking platform built with Next.js. It's designed to provide users with a secure, real-time, and comprehensive solution for managing their finances. By connecting to multiple bank accounts, it offers a single-dashboard view of all financial activities, making money management effortless and insightful.
 -This project is built as a complete, self-contained application, demonstrating best practices in full-stack development, including secure authentication, robust data management, and a highly responsive user interface.
 
 ## 🚀 Features
